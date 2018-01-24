@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package tutorial;
+
+message User {
+  string id = 1;
+  string password = 2;
+}
