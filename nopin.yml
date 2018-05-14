@@ -1,4 +1,0 @@
-apps:
-  - script   : nopin.py
-  interpreter: /usr/bin/python3
-  interpreter_args: -u
